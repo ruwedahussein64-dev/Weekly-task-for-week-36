@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <title> Website </title>
+</head>
+<body> 
+  <nav> 
+    <a href="https://www.vg.no/" target="_blank"> Visit VG! </a>
+  </nav>
+<h1> My first website </h1>
+   <p> Basic information about me:
+       Name: Ruweda
+       Age: 19
+       Live in Oslo
+     </p>
+   <h2> My hobbies and interests: </h2>
+  <p> I like to doomscroll across different social media platforms
+      I like to bake cookies and brownies
+      Lastly i like to game on roblox
+  </p>
+</body>
+
+
+</html>
