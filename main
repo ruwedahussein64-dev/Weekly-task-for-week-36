@@ -13,15 +13,15 @@
     <a href="https://home.cern/science/computing/the-birth-of-the-web/short-history-web/" target="_blank">Visit CERN</a>
 </nav>
 
-<h1> What is the web actually? </h1>
+<h2> What is the web actually? </h2>
 
-   <p> According to CERN, The World Wide Web is a system that allows people to access and
+   <p> The World Wide Web is a system that allows people to access and
                 share information through websites and web pages. It was
                 invented by Tim Berners-Lee in 1989.  The Web is a way of accessing information through the Internet.
                 Websites are connected to each other using hyperlinks, which
                 makes it possible to move from one page to another. </p>
     
-  <h1> How websites work</h1>
+  <h2> How websites work</h2>
    
   <p>  Websites are created using different technologies. HTML is used
                 to structure the content of a webpage, CSS can be used to
@@ -31,7 +31,7 @@
                 browser, which displays it on your screen.</p>
 
   
-  <h1> What I have learned this week</h1>
+  <h2> What I have learned this week</h2>
   <ul>
     <li> I have learned about the very basics of HTML.</li>
     <li> I have learned that p is used to create paragraphs and h1 is used to create headings.</li>
@@ -40,19 +40,22 @@
     <li> I have learned how to add images to a website.</li>
   </ul>
 
-   <h1> What I like about this course </h1>
+   <h2> What I like about this course </h2>
   <ol>
     <li> I like learning how to create websites.</li>
     <li> I like learning how to code using HTML.</li>
     <li> I like how we learn about the web in deeper detail. </li>
   </ol>
 
-  <img src="images/coding image.jpg">
-  <img src="https://disenowebakus.net/en/images/articles/world-wide-web-www-meaning-history-origin.jpg">
 
-<table> 
+<img src="images/coding image.jpg" alt="A person coding on a computer">
+<img src="https://disenowebakus.net/en/images/articles/world-wide-web-www-meaning-history-origin.jpg"
+     alt="Illustration of the World Wide Web">
+ 
 
-      <caption> My courses this semester </caption>
+<h1>My Courses This Semester</h1>
+
+<table>
 
       <tr>
          <th> Semester </th>
